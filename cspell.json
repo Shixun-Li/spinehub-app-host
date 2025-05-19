@@ -1,0 +1,27 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "myapp",
+    "Pressable",
+    "signin",
+    "spinehub"
+  ],
+  "ignoreRegExpList": [
+    "/Author.+/",
+    "/data:.*/",
+    "/\"mappings\":\".+\"/",
+    "/toMatchInlineSnapshot\\(\\s*`[^`]*`\\s*\\)/"
+  ],
+  "ignorePaths": [
+    "**/dist/**",
+    "**/node_modules/**",
+    "**/.git/**",
+    "**/.DS_Store",
+    ".vscode",
+    "**/backend-sdk**",
+    "package.json",
+    "yarn.lock",
+    "types.d.ts"
+  ]
+}
