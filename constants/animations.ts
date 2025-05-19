@@ -1,3 +1,0 @@
-export const SPLASH_FADE_IN_DURATION = 2000;
-
-export const SIGN_UP_STEP_ANIMATION_DURATION = 300;
