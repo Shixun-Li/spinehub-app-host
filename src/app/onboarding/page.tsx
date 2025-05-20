@@ -5,7 +5,7 @@ const Page = () => {
   useEffect(() => {
     const iosAppStoreURL = "https://apps.apple.com/au/app/google/id284815942";
     const androidPlayStoreURL =
-      "https://play.google.com/store/apps/details?id=com.spinehub.app";
+      "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=en_AU";
 
     // Use window.navigator instead of navigator directly
     const userAgent = window.navigator.userAgent || window.navigator.vendor;
