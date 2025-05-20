@@ -3,7 +3,7 @@ import { useEffect } from "react";
 
 const Page = () => {
   useEffect(() => {
-    const iosAppStoreURL = "https://apps.apple.com/app/idYOUR_APP_ID";
+    const iosAppStoreURL = "https://apps.apple.com/au/app/google/id284815942";
     const androidPlayStoreURL =
       "https://play.google.com/store/apps/details?id=com.spinehub.app";
 
